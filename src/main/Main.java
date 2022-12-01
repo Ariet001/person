@@ -13,9 +13,9 @@ public class Main {
 
     private static Programmer person() {
         Programmer programmer = new Programmer();
-        programmer.setName("ARIET");
+        programmer.setName("Dastan");
         programmer.setSurName("KALMAMATOV");
-        programmer.setAge(17);
+        programmer.setAge(7);
         programmer.sleep();
         programmer.awake();
         return programmer;
@@ -23,9 +23,9 @@ public class Main {
 
     private static Singer sing() {
         Singer singer = new Singer();
-        singer.setName("ELBEK");
+        singer.setName("Kurmanbek");
         singer.setSurName("MASHAPOV");
-        singer.setAge(15);
+        singer.setAge(34);
         singer.sleep();
         singer.awake();
         return singer;
@@ -33,9 +33,9 @@ public class Main {
 
     private static Dancer dancer() {
         Dancer dancer = new Dancer();
-        dancer.setName("KURMANBEK");
+        dancer.setName("Daniel");
         dancer.setSurName("PAZYLOV");
-        dancer.setAge(16);
+        dancer.setAge(02);
         dancer.sleep();
         dancer.awake();
         return dancer;
